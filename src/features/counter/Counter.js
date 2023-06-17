@@ -10,7 +10,7 @@ function Counter() {
 
   return (
     <>
-    <h2 className='m-3'>Buy Products</h2>
+    <h2 className='m-3'>Sale Product</h2>
     <div className='container'>
       <div className='row'>
         <div className='col-md-4'>              
